@@ -1,3 +1,4 @@
+# lib/stack.py
 class Stack:
     def __init__(self, items=[], limit=100):
         if items is None:
